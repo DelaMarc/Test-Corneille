@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a378dc1f4a55de840bfe6cb50f3fc1d1, type: 3}
+  m_Name: Level roi
+  m_EditorClassIdentifier: 
+  m_word: {fileID: 8300000, guid: ace150539dea7b44588b5781160c017f, type: 3}
+  m_image: {fileID: 21300000, guid: 4c0badad3468c0e4eb6fe1930d3de45c, type: 3}
+  m_graphemes:
+  - r
+  - oi
+  m_phonemes:
+  - {fileID: 8300000, guid: bcf108e7cec39274fb6b08aadc8795f5, type: 3}
+  - {fileID: 8300000, guid: 1b9948bbb2bc60c429f7c4eec6c8c71e, type: 3}

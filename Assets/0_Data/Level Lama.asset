@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a378dc1f4a55de840bfe6cb50f3fc1d1, type: 3}
+  m_Name: Level Lama
+  m_EditorClassIdentifier: 
+  m_word: {fileID: 8300000, guid: e498de433ad47bb409c8f41b528f0b9d, type: 3}
+  m_image: {fileID: 21300000, guid: 5beb3ebc32cbf0040acaa366e779f4af, type: 3}
+  m_graphemes:
+  - l
+  - a
+  - m
+  - a
+  m_phonemes:
+  - {fileID: 8300000, guid: b3c29b2c2c1f80c44a220f6257310e88, type: 3}
+  - {fileID: 8300000, guid: 0b4188c3d9c3d5b4587b7c71bf2d5cb1, type: 3}
+  - {fileID: 8300000, guid: 74039b3d0fd5d7a40b273362c3f00064, type: 3}
+  - {fileID: 8300000, guid: 0b4188c3d9c3d5b4587b7c71bf2d5cb1, type: 3}

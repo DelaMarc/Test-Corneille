@@ -1,0 +1,6 @@
+-randomiser la sélection des niveaux
+-Il manque des sons, il faut les rajouter.
+-implémenter un système de victoire/défaite (?)
+
+2) La question semblant consister à trouver comment résoudre le problème du client et non quoi lui répondre, je dirais qu'il doit approuver l'application via familyLink pour que l'enfant puisse l'utiliser. 
+L'enfant peut également passer directement par le compte du parent.
